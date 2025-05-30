@@ -2,9 +2,7 @@
 
 ### 💻 Backend Engineer | ⚙️ DevOps Enthusiast | 🚀 CI/CD Advocate
 
-I'm a Mechatronics Engineer turned Software Engineer passionate about building robust backend systems, automating pipelines, and optimizing infrastructure. I thrive on improving developer workflows and building scalable systems.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YehyaElabd&color=blue&style=flat-square)
+I'm a Mechatronics Engineer turned Software Engineer.
 
 ---
 
@@ -21,17 +19,10 @@ I'm a Mechatronics Engineer turned Software Engineer passionate about building r
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YehyaElabd&theme=onedark&no-frame=true&column=7)
-
----
-
 ## 📈 GitHub Stats & Streaks
 
 ![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyaElabd&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyaElabd&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YehyaElabd&theme=tokyonight&hide_border=true)
 
 ---
 
