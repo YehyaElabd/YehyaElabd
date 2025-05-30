@@ -2,7 +2,9 @@
 
 ### 💻 Backend Engineer | ⚙️ DevOps Enthusiast | 🚀 CI/CD Advocate
 
-I'm a Mechatronics Engineer turned Software Engineer, currently focused on backend development and DevOps practices. I enjoy solving problems, building scalable systems, and automating everything!
+I'm a Mechatronics Engineer turned Software Engineer passionate about building robust backend systems, automating pipelines, and optimizing infrastructure. I thrive on improving developer workflows and building scalable systems.
+
+![Profile Views](https://komarev.com/ghpvc/?username=YehyaElabd&color=blue&style=flat-square)
 
 ---
 
@@ -19,27 +21,25 @@ I'm a Mechatronics Engineer turned Software Engineer, currently focused on backe
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YehyaElabd&theme=onedark&no-frame=true&column=7)
+
+---
+
+## 📈 GitHub Stats & Streaks
 
 ![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyaElabd&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyaElabd&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YehyaElabd&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🛠️ Projects & Interests
+## 📫 Let's Connect
 
-- ⚙️ Automating DevOps workflows with Python and GitHub Actions  
-- 🧪 Building CI/CD pipelines from scratch  
-- 🌐 Developing backend services with PHP Laravel  
-- 🛰️ Exploring IoT systems and embedded software  
-
----
-
-## 📫 Get in Touch
-
-- [LinkedIn]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/yehiya-elabd/))
+- [LinkedIn](https://www.linkedin.com/in/yehiya-elabd/)
 - [Email](mailto:yehiyamostafa121@gmail.com)
 
 ---
 
-*Let's build, break, and automate! 💡*
+> “Automation is good, so long as you know exactly what you want it to do.” – Bill Gates
