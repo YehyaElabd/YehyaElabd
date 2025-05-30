@@ -21,8 +21,8 @@ I'm a Mechatronics Engineer turned Software Engineer, currently focused on backe
 
 ## 📈 GitHub Stats
 
-![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehiaelabd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehiaelabd&layout=compact&theme=tokyonight)
+![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyaElabd&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyaElabd&layout=compact&theme=tokyonight)
 
 ---
 
