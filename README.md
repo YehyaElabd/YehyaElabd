@@ -21,7 +21,6 @@ I'm a Mechatronics Engineer turned Software Engineer.
 
 ## 📈 GitHub Stats & Streaks
 
-![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyaElabd&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=YehyaElabd&theme=tokyonight&hide_border=true)
 
 ---
