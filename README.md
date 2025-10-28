@@ -17,11 +17,7 @@ I'm a Mechatronics Engineer turned Software Engineer.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
 
-## 📈 GitHub Stats & Streaks
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YehyaElabd&theme=tokyonight&hide_border=true)
 
 ---
 
